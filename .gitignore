@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+ios/.generated/
+ios/Flutter/flutter_export_environment.sh
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Node.js / Backend
+node_modules/
+.env
+*.log
+
+# Next.js / Web
+.next/
+out/
+web/node_modules/
+
+# General
+*.swp
+*.swo
+Thumbs.db
